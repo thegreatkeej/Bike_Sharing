@@ -14,23 +14,23 @@ that may be helpful knowledge for Des Moines investors.
 
 ### 1) Checkout Times for Users
 Trip duration peaks between 5-10 minutes
-!(images/Picture1.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture1.png)
 
 ### 2) Checkout Times by Gender
 Male ridership outnumbers female ridership by 3 to 1
-!(images/Picture2.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture2.png)
 
 ### 3) Trips by Weekday per Hour
 Weekday peak ridership occurs from 6am to 9am and then
-!(images/Picture3.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture3.png)
 
 ### 4) Trips by Gender (Weekday per Hour)
 Weekend peak ridership occurs from 10am to 6pm
-!(images/Picture4.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture4.png)
 
 ### 5) User Trips by Gender by Weekday
 Customer subscriptions increases ridership. The peak day of the week is Thursday (Friday is 2nd)
-!(images/Picture5.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture5.png)
 
 ## Summary
 
@@ -48,9 +48,9 @@ was that the highest concentrations of ridership occured near water ways.
 
 ### 6A and 6B) Bikes Potentially Needing Repair
 Bike ID's from 33,000 to 40,000 have disproportionately higher ride numbers.
-!(images/Picture6.png)
-!(images/Picture6b.png) 
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture6.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture6b.png)
 
 ### 7) Top Starting Locations
 #### The highest concentration of bikes are picked up in an area surrounded by water and near Central Park  
-!(images/Picture7.png)
+![Alt text](C:\Users\kijah\Documents\Data_Bootcamp\Bike_Sharing\images\Picture7.png)
