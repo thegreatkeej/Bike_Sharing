@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bike_Sharing
 Analysis of data to determine viability of bicycle sharing app in Des Moines, IA (using Tableau)
 
@@ -52,9 +52,5 @@ Bike ID's from 33,000 to 40,000 have disproportionately higher ride numbers.
 !(images/Picture6b.png) 
 
 ### 7) Top Starting Locations
-The highest concentration of bikes are picked up in an area surrounded by water and near Central Park  
+#### The highest concentration of bikes are picked up in an area surrounded by water and near Central Park  
 !(images/Picture7.png)
-=======
-# Bike_sharing
-Analysis of data to determine viability of bicycle sharing app in Des Moines, IA (using Tableau)
->>>>>>> da179d75127e1f41850401e236bbcf7a5c6328e6
