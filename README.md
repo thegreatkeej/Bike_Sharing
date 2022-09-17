@@ -14,11 +14,11 @@ that may be helpful knowledge for Des Moines investors.
 
 ### 1) Checkout Times for Users
 Trip duration peaks between 5-10 minutes
-![Alt text](images\Picture1.png)
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture1.png)
 
 ### 2) Checkout Times by Gender
 Male ridership outnumbers female ridership by 3 to 1
-![Alt text](images\Picture2.png)
+![Alt text]([images\Picture2.png](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture2.png))
 
 ### 3) Trips by Weekday per Hour
 Weekday peak ridership occurs from 6am to 9am and then
