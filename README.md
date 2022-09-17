@@ -13,7 +13,7 @@ that may be helpful knowledge for Des Moines investors.
 ## Results
 
 ### 1) Checkout Times for Users
-Trip durration peaks between 5-10 minutes
+Trip duration peaks between 5-10 minutes
 !(images/Picture1.png)
 
 ### 2) Checkout Times by Gender
