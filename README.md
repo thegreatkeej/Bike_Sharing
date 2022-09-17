@@ -13,24 +13,27 @@ that may be helpful knowledge for Des Moines investors.
 ## Results
 
 ### 1) Checkout Times for Users
-Trip duration peaks between 5-10 minutes
 ![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture1.png)
+Trip duration peaks between 5-10 minutes
 
 ### 2) Checkout Times by Gender
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture2.png)
 Male ridership outnumbers female ridership by 3 to 1
-![Alt text]([images\Picture2.png](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture2.png))
+
 
 ### 3) Trips by Weekday per Hour
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture3.png)
 Weekday peak ridership occurs from 6am to 9am and then
-![Alt text](images\Picture3.png)
+
 
 ### 4) Trips by Gender (Weekday per Hour)
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture4.png)
 Weekend peak ridership occurs from 10am to 6pm
-![Alt text](images\Picture4.png)
+
 
 ### 5) User Trips by Gender by Weekday
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture5.png)
 Customer subscriptions increases ridership. The peak day of the week is Thursday (Friday is 2nd)
-![Alt text](images\Picture5.png)
 
 ## Summary
 
@@ -47,10 +50,11 @@ volumes of customers. The crude map in the data only shows rough landmarks (wate
 was that the highest concentrations of ridership occured near water ways. 
 
 ### 6A and 6B) Bikes Potentially Needing Repair
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture6.png)
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture6b.png)
 Bike ID's from 33,000 to 40,000 have disproportionately higher ride numbers.
-![Alt text](images\Picture6.png)
-![Alt text](images\Picture6b.png)
+
 
 ### 7) Top Starting Locations
 #### The highest concentration of bikes are picked up in an area surrounded by water and near Central Park  
-![Alt text](images\Picture7.png)
+![Alt text](https://github.com/thegreatkeej/Bike_Sharing/blob/main/images/Picture7.png)
